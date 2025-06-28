@@ -1,4 +1,5 @@
-# SpiderFootRU
+# SpiderFootRU #spiderfoot #windows #кибербезопасность #python #hacking
+
 Полное руководство по установке SpiderFoot на Windows (2025)
 Актуально для:
 ✔ Windows 10/11 (x64)
